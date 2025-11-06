@@ -1,3 +1,20 @@
 [
-    { "id": 1, "clienteId": 1, "productos": [1, 2] }
+  {
+    "id": 1,
+    "clienteId": 1,
+    "productos": [
+      1,
+      2
+    ]
+  },
+  [
+    {
+      "id": 2,
+      "clienteId": "24",
+      "productos": [
+        2,
+        3
+      ]
+    }
+  ]
 ]
